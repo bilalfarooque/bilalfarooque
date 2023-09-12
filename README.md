@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Next.js with Tailwind CSS
 - 🤔 I’m seeking help finding a MERN Stack Dev Job with junior-level roles.
 
-Languages & Tools
+## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,figma,nextjs,nodejs,py,tailwind,ts,vercel,&perline=10)](https://skillicons.dev)
 
-Databases
+## Databases
 [![My Skills](https://skillicons.dev/icons?i=express,firebase,mongodb,postman,tailwind&perline=10)](https://skillicons.dev)
 <!--
 **bilalfarooque/bilalfarooque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
