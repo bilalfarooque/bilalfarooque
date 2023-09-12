@@ -5,10 +5,10 @@
 - 🤔 I’m seeking help finding a MERN Stack Dev Job with junior-level roles.
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,figma,nextjs,nodejs,py,tailwind,ts,vercel,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,figma,nextjs,nodejs,py,tailwind,ts,vercel,postman&perline=10)](https://skillicons.dev)
 
 ## Databases
-[![My Skills](https://skillicons.dev/icons?i=express,firebase,mongodb,postman,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,firebase,mongodb,mssql,postgres&perline=10)](https://skillicons.dev)
 <!--
 **bilalfarooque/bilalfarooque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
