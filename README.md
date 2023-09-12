@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,figma,nextjs,nodejs,py,tailwind,ts,vercel,postman&perline=10)](https://skillicons.dev)
 
 ## Databases
-[![My Skills](https://skillicons.dev/icons?i=express,firebase,mongodb,mssql,postgres&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,firebase,mongodb,mysql,postgres&perline=10)](https://skillicons.dev)
 <!--
 **bilalfarooque/bilalfarooque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
