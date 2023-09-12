@@ -1,12 +1,14 @@
-### Hi there 👋
-
+### Hi I'm Bilal Farooque
+## A passionate MERN Stack and Nextjs Developer
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning Next.js with Tailwind CSS
 - 🤔 I’m seeking help finding a MERN Stack Dev Job with junior-level roles.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,express,figma,firebase,mongodb,nextjs,nodejs,postman,py,tailwind,ts,vercel,&perline=10)](https://skillicons.dev)
+Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,figma,nextjs,nodejs,py,tailwind,ts,vercel,&perline=10)](https://skillicons.dev)
 
-
+Databases
+[![My Skills](https://skillicons.dev/icons?i=express,firebase,mongodb,postman,tailwind&perline=10)](https://skillicons.dev)
 <!--
 **bilalfarooque/bilalfarooque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
